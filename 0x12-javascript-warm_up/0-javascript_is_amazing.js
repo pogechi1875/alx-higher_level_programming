@@ -1,6 +1,5 @@
 #!/usr/bin/node
-/* This is a script to print out javascript is amaizing*/
+/* a script that prints “Javascript is amazing” */
 
-const myVar = 'Javascript is amaizing';
+const myVar = 'Javascript is amazing';
 console.log(myVar);
-
