@@ -1,1 +1,3 @@
-document.querySelector("header").style.color = 'red';
+$(function() {
+document.querySelector("header").style.color = '#FF0000';
+});
