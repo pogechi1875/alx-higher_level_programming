@@ -2,6 +2,7 @@
 
 """Creating a class  called square"""
 
+
 class Square:
 	"""Represents a squqre"""
 	pass
